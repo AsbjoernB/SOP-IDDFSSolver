@@ -1,0 +1,21 @@
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver permute optimization\RubiksSolver\bin\Release\RubiksSolver.exe.config
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver permute optimization\RubiksSolver\bin\Release\RubiksSolver.exe
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver permute optimization\RubiksSolver\bin\Release\RubiksSolver.pdb
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver permute optimization\RubiksSolver\obj\Release\RubiksSolver.csprojAssemblyReference.cache
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver permute optimization\RubiksSolver\obj\Release\RubiksSolver.csproj.CoreCompileInputs.cache
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver permute optimization\RubiksSolver\obj\Release\RubiksSolver.exe
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver permute optimization\RubiksSolver\obj\Release\RubiksSolver.pdb
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver permutation logic (slower but has names)\RubiksSolver\bin\Release\RubiksSolver.exe.config
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver permutation logic (slower but has names)\RubiksSolver\bin\Release\RubiksSolver.exe
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver permutation logic (slower but has names)\RubiksSolver\bin\Release\RubiksSolver.pdb
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver permutation logic (slower but has names)\RubiksSolver\obj\Release\RubiksSolver.csprojAssemblyReference.cache
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver permutation logic (slower but has names)\RubiksSolver\obj\Release\RubiksSolver.csproj.CoreCompileInputs.cache
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver permutation logic (slower but has names)\RubiksSolver\obj\Release\RubiksSolver.exe
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver permutation logic (slower but has names)\RubiksSolver\obj\Release\RubiksSolver.pdb
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver aflevering\RubiksSolver\bin\Release\RubiksSolver.exe.config
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver aflevering\RubiksSolver\bin\Release\RubiksSolver.exe
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver aflevering\RubiksSolver\bin\Release\RubiksSolver.pdb
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver aflevering\RubiksSolver\obj\Release\RubiksSolver.csprojAssemblyReference.cache
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver aflevering\RubiksSolver\obj\Release\RubiksSolver.csproj.CoreCompileInputs.cache
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver aflevering\RubiksSolver\obj\Release\RubiksSolver.exe
+D:\OneDrive\htx\3g\Programmering\RubiksSolver\RubiksSolver aflevering\RubiksSolver\obj\Release\RubiksSolver.pdb
