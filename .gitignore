@@ -1,0 +1,4 @@
+*.TMP
+bin/
+obj/
+.vs/

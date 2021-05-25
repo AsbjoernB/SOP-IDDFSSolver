@@ -28,11 +28,6 @@ namespace RubiksSolver.SolutionStages
             }
         }
 
-        public override int getHeuristic(CubeState cubeState)
-        {
-            throw new NotImplementedException();
-        }
-
         // the 4 edges in the equator slice. It's all the edges not in the top or bottom layer
         private static readonly EdgeName[] equatorEdges = new EdgeName[]
         {
